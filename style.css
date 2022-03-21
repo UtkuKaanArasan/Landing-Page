@@ -75,19 +75,31 @@
 /* ========main-1 section======== */
 
 #main-1{
-
     padding: 15px 12.5%;
+    /* temp ccode */
+    padding-bottom: 500px;
 }
 
 #main-1-h2{
     padding: 20px;
     text-align: center;
     font-size: 36px;
+    font-weight: 900;
 }
 
 .main-1-cards{
     display: flex;
+    margin: 10px;
+    padding: 10px;
+}
 
+/* .info-cards{
+    margin: 10px;
+    padding: 10px;
+} */
 
+.info-card-wrapper{
+    margin: auto;
+    width: 50%;
 }
 
