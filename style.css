@@ -148,3 +148,12 @@
     border-radius: 5px;
     padding: 5px 20px;
 }
+
+/* ========Footer======== */
+
+#footer {
+    padding: 50px 12.5%;
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+}
